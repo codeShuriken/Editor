@@ -1,7 +1,4 @@
 //Gowtham Vuppala
-// GV597927
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
